@@ -1,0 +1,27 @@
+.nav{
+    height: 4rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(13, 29, 80);
+    color: azure;
+    border-radius: 2rem;
+}
+.nav> h1{
+    margin-left: 2rem;
+    line-height: 1rem;
+}
+.nav>ul{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5rem;
+    align-items: center;
+}
+.nav>ul>li{
+   list-style-type: none;
+   padding-right: 1rem;
+}
+.link{
+    color: azure;
+    text-decoration-line: none;
+    
+}
